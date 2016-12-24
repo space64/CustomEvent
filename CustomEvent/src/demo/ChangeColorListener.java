@@ -2,7 +2,7 @@ package demo;
 
 /***
  * 
- * @author Huyen
+ * @author Huyen Pham
  *
  */
 public interface ChangeColorListener {

@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 /**
  * 
- * @author Huyen
+ * @author Huyen Pham
  *
  */
 
@@ -15,7 +15,7 @@ public class MainUI extends JFrame{
 	Canvas canvas;
 	Palette palette;
 	Color fillColor;
-	String title = "Custom Event - Huyen";
+	String title = "Custom Event - Huyen Pham";
 	
 	public MainUI(){
 		setTitle(title);

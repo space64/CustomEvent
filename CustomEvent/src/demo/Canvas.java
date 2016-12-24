@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 /**
  * 
- * @author Huyen
+ * @author Huyen Pham
  *
  */
 
